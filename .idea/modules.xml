@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/APIAutomationRestAssured.iml" filepath="$PROJECT_DIR$/APIAutomationRestAssured.iml" />
+      <module fileurl="file://$PROJECT_DIR$/APIRESTASSURED.iml" filepath="$PROJECT_DIR$/APIRESTASSURED.iml" />
     </modules>
   </component>
 </project>
